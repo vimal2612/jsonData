@@ -2,7 +2,6 @@
     {
       "key": "1",
       "name": "John Brown",
-      "email": "vimal.ramaswamy@gds.ey.com",
       "persona": "EC",
       "accessDate": "1 Jan 2020",
       "status": true
@@ -10,7 +9,6 @@
     {
       "key": "2",
       "name": "Jim Green",
-      "email": "vimal.ramaswamy@gds.ey.com",
       "persona": "ER",
       "accessDate": "2 Jan 2020",
       "status": true
@@ -18,7 +16,6 @@
     {
       "key": "3",
       "name": "Joe Black",
-      "email": "vimal.ramaswamy@gds.ey.com",
       "persona": "ER",
       "accessDate": "23 Dec 2019",
       "status": true
@@ -26,7 +23,6 @@
     {
       "key": "4",
       "name": "John Brown",
-      "email": "vimal.ramaswamy@gds.ey.com",
       "persona": "ER",
       "accessDate": "1 May 2019",
       "status": false
@@ -34,7 +30,6 @@
     {
         "key": "5",
         "name": "Jim Gree",
-        "email": "vimal.ramaswamy@gds.ey.com",
         "persona": "ER",
         "accessDate": "2 Jan 2020",
         "status": true
@@ -42,7 +37,6 @@
       {
         "key": "6",
         "name": "Joe Black",
-        "email": "vimal.ramaswamy@gds.ey.com",
         "persona": "ER",
         "accessDate": "23 Dec 2019",
         "status": true
@@ -50,7 +44,6 @@
       {
         "key": "7",
         "name": "John Brown",
-        "email": "vimal.ramaswamy@gds.ey.com",
         "persona": "ER",
         "accessDate": "1 May 2019",
         "status": false
