@@ -28,17 +28,5 @@
         "name": "Jim Gree",
         "persona": "ER",
         "status": true
-      },
-      {
-        "key": "6",
-        "name": "Joe Black",
-        "persona": "ER",
-        "status": true
-      },
-      {
-        "key": "7",
-        "name": "John Brown",
-        "persona": "ER",
-        "status": false
-      }
+    }
 ]
